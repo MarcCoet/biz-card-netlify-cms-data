@@ -1,0 +1,11 @@
+{
+  "templateKey": "settings",
+  "title": "Second Settings",
+  "date": "2018-09-23T13:18:25.300Z",
+  "description": "desc",
+  "body": "b",
+  "tags": [
+    "tag-one",
+    "tag-two"
+  ]
+}
